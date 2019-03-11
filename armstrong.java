@@ -1,5 +1,5 @@
 import java.util.*;
-class armstrong
+public class armstrong
 {
     public static void main(String args[])
     {
@@ -14,8 +14,8 @@ class armstrong
             x=x/10;
         }
         if(n==sum)
-            System.out.println("n ia an armstrong number");
+            System.out.println("n is an armstrong number");
         else
-            system.out.println("n is not an armstrong number");
+            System.out.println("n is not an armstrong number");
     }
  }
